@@ -1,0 +1,30 @@
+{
+  "configVersion": 1,
+  "lastUpdated": "2026-02-28",
+  "games": [
+    {
+      "gameId": "police_01",
+      "gameName": "Cop Duty Rush City Patrol Game",
+      "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
+      "amazonAppId": "B0GH7M6N1B",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
+      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/Police1.mp4",
+      "iconUrl": "",
+      "priority": 1,
+      "isActive": true
+    },
+    {
+      "gameId": "bike_01",
+      "gameName": "AeroCloud Sprint Jumper World Game",
+      "packageName": "com.aero.cloud.sprint.jumper.jd.amazon",
+      "amazonAppId": "B0GHSMK9HX",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GHSMK9HX",
+      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/Car1.mp4",
+      "iconUrl": "",
+      "priority": 1,
+      "isActive": true
+    }
+  ]
+}
+
+
