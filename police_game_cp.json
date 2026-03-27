@@ -4,11 +4,11 @@
   "games": [
     {
       "gameId": "bike_01",
-      "gameName": "Cop Duty Rush City Patrol Game",
-      "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
-      "amazonAppId": "B0GH7M6N1B",
-      "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
-      "videoUrl": "https://pub-fe77f070b2454d8bad1c5bd07532512f.r2.dev/Police1.mp4",
+      "gameName": "Phantom Streak Rally Bike Stunt Game",
+      "packageName": "com.phantom.streak.rally.stunt.pbg.amazon",
+      "amazonAppId": "B0GJ6GM6CP",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GJ6GM6CP",
+      "videoUrl": "https://pub-30dcd1800d4d4289a15dd963383d9a11.r2.dev/bike-02.mp4",
       "iconUrl": "",
       "priority": 1,
       "isActive": true
