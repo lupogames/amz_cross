@@ -1,0 +1,30 @@
+{
+  "configVersion": 2,
+  "lastUpdated": "2026-02-28",
+  "games": [
+    {
+      "gameId": "bike_01",
+      "gameName": "Phantom Streak Rally Bike Stunt Game",
+      "packageName": "com.phantom.streak.rally.stunt.pbg.amazon",
+      "amazonAppId": "B0GJ6GM6CP",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GJ6GM6CP",
+      "videoUrl": "https://pub-30dcd1800d4d4289a15dd963383d9a11.r2.dev/bike-02.mp4",
+      "iconUrl": "",
+      "priority": 1,
+      "isActive": true
+    },
+    {
+      "gameId": "bike_02",
+      "gameName": "AeroCloud Sprint Jumper World Game",
+      "packageName": "com.aero.cloud.sprint.jumper.jd.amazon",
+      "amazonAppId": "B0GHSMK9HX",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GHSMK9HX",
+      "videoUrl": "https://pub-30dcd1800d4d4289a15dd963383d9a11.r2.dev/Super%20Spider%201.mp4",
+      "iconUrl": "",
+      "priority": 1,
+      "isActive": true
+    }
+  ]
+}
+
+
