@@ -1,13 +1,13 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "lastUpdated": "2026-02-28",
   "games": [
     {
       "gameId": "police_01",
-      "gameName": "Cop Duty Rush City Patrol Game",
-      "packageName": "com.cop.duty.rush.city.patrol.game.amazon",
-      "amazonAppId": "B0GH7M6N1B",
-      "storeUrl": "https://www.amazon.com/gp/product/B0GH7M6N1B",
+      "gameName": "Street Cop Legends Night Patrol Officer",
+      "packageName": "com.street.cop.lagends.officer.pbg.amazon",
+      "amazonAppId": "B0GGBFNJBH",
+      "storeUrl": "https://www.amazon.com/gp/product/B0GGBFNJBH",
       "videoUrl": "https://pub-30dcd1800d4d4289a15dd963383d9a11.r2.dev/Police%201.mp4",
       "iconUrl": "",
       "priority": 1,
